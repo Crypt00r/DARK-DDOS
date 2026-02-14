@@ -1,6 +1,16 @@
 <div align="center">
   <h1>⚫ DARK DDOS ⚫</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=EDUCACIONAL;EDUCATIONAL;ESTUDO+DE+REDES;NETWORK+STUDY" alt="Typing SVG" />
+  
+  <pre>
+██████╗  █████╗ ██████╗ ██╗  ██╗    ██████╗ ██████╗  ██████╗ ███████╗
+██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝
+██║  ██║███████║██████╔╝█████╔╝     ██║  ██║██║  ██║██║   ██║███████╗
+██║  ██║██╔══██║██╔══██╗██╔═██╗     ██║  ██║██║  ██║██║   ██║╚════██║
+██████╔╝██║  ██║██║  ██║██║  ██╗    ██████╔╝██████╔╝╚██████╔╝███████║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
+  </pre>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=REAL;ATTACK;" alt="Typing SVG" />
   
   <br>
   
@@ -14,8 +24,6 @@
 
 ---
 
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
@@ -28,26 +36,26 @@
 
 ### 🇧🇷 **Português**
 
-**DARK DDOS** é uma ferramenta educacional de simulação de tráfego de rede, desenvolvida para fins de aprendizado e ambientes controlados de laboratório.
+**DARK DDOS** é uma ferramenta de **ataque real** para fins educacionais. Desenvolvida para ajudar estudantes e pesquisadores a entenderem na prática como ataques DDoS funcionam.
 
-Este projeto foi criado para ajudar estudantes e pesquisadores a entenderem:
-- 📊 Comportamento de redes sob carga
-- 🔬 Resiliência de servidores
-- 🛡️ Estratégias de proteção
-- 👨‍💻 Conceitos de segurança ofensiva (de forma ética)
+**Características:**
+- 🔥 Ataque TCP real (não simulado)
+- ⚡ Múltiplas threads simultâneas
+- 📊 Métricas em tempo real
+- 🎯 Configuração completa de parâmetros
 
 </td>
 <td width="50%">
 
 ### 🇺🇸 **English**
 
-**DARK DDOS** is an educational network traffic simulation tool designed for learning purposes and controlled laboratory environments.
+**DARK DDOS** is a **real attack** tool for educational purposes. Developed to help students and researchers understand firsthand how DDoS attacks work.
 
-This project was created to help students and researchers understand:
-- 📊 Network behavior under load
-- 🔬 Server resilience
-- 🛡️ Protection strategies
-- 👨‍💻 Offensive security concepts (ethically)
+**Features:**
+- 🔥 Real TCP attack (not simulated)
+- ⚡ Multiple simultaneous threads
+- 📊 Real-time metrics
+- 🎯 Full parameter configuration
 
 </td>
 </tr>
@@ -62,31 +70,37 @@ This project was created to help students and researchers understand:
 ## ⚠️ **AVISO LEGAL | LEGAL NOTICE**
 
 <div align="center">
-  <table border="2" cellpadding="10" style="border-color: #FF0000;">
+  <table border="2" cellpadding="10" style="border-color: #FF0000; background-color: #1a0000;">
     <tr>
-      <td align="center" style="background-color: #330000;">
+      <td align="center">
         <h3 style="color: #FF0000;">🚨 ATENÇÃO | WARNING 🚨</h3>
-        <p style="color: #FFFFFF;">
-          <b>Esta ferramenta deve ser utilizada APENAS em ambientes autorizados!<br>
-          This tool must ONLY be used in authorized environments!</b>
+        <p style="color: #FFFFFF; font-size: 16px;">
+          <b>ESTA FERRAMENTE EXECUTA ATAQUES REAIS!<br>
+          THIS TOOL EXECUTES REAL ATTACKS!</b>
+        </p>
+        <p style="color: #FF6666;">
+          Só utilize em servidores que você possui autorização explícita!<br>
+          Only use on servers you have explicit authorization to test!
         </p>
       </td>
     </tr>
   </table>
 </div>
 
+<br>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="background-color: #330000;">
 
 ### ❌ **NÃO USE PARA | DO NOT USE FOR:**
-- Atacar sistemas de terceiros
-- Testes sem autorização
-- Atividades maliciosas
-- Fins ilegais
+- ❌ Atacar sistemas de terceiros
+- ❌ Testes sem autorização
+- ❌ Atividades maliciosas
+- ❌ Fins ilegais
 
 </td>
-<td width="50%">
+<td width="50%" style="background-color: #003300;">
 
 ### ✅ **USE APENAS PARA | USE ONLY FOR:**
 - ✅ Seus próprios servidores
@@ -112,28 +126,31 @@ This project was created to help students and researchers understand:
 <tr>
 <th align="center">🖥️ Sistema / System</th>
 <th align="center">🐍 Python</th>
-<th align="center">📦 Dependências / Dependencies</th>
 </tr>
 <tr>
 <td align="center">
 
 Windows 10/11<br>
-Linux (Ubuntu/Debian)
+Linux (Ubuntu/Debian)<br>
+macOS
 
 </td>
 <td align="center">
 
-3.x ou superior<br>
-3.x or higher
-
-</td>
-<td align="center">
-
-`pip install -r requirements.txt`
+3.6 ou superior<br>
+3.6 or higher
 
 </td>
 </tr>
 </table>
+
+**📦 Dependências | Dependencies:**
+```bash
+# Nenhuma dependência externa necessária!
+# Apenas Python padrão
+# No external dependencies needed!
+# Just standard Python
+```
 
 ---
 
@@ -150,9 +167,11 @@ git clone https://github.com/Crypt00r/DARK.git
 # Entre no diretório | Enter directory
 cd DARK
 
-# Instale as dependências | Install dependencies
-pip install -r requirements.txt
+# Execute diretamente | Run directly
+python dark_ddos.py
 ```
+
+**Não requer instalação de dependências! | No dependencies required!**
 
 ---
 
@@ -162,24 +181,37 @@ pip install -r requirements.txt
 
 ## 📖 **COMO USAR | HOW TO USE**
 
-### 🇧🇷 **Exemplo básico:**
+### 🇧🇷 **Passo a passo:**
+
+1. Execute o script:
 ```bash
-python dark_ddos.py --target 192.168.1.100 --port 80 --threads 50 --duration 60
+python dark_ddos.py
 ```
 
-### 🇺🇸 **Basic example:**
+2. Digite `1` para iniciar o ataque
+3. Digite `EU ACEITO` para confirmar os termos legais
+4. Configure os parâmetros:
+   - **IP do alvo** (ex: 192.168.1.100)
+   - **Porta** (padrão: 80)
+   - **Número de threads** (1-100, padrão: 50)
+   - **Duração em segundos** (padrão: 60)
+5. Confirme com `s` para iniciar
+
+### 🇺🇸 **Step by step:**
+
+1. Run the script:
 ```bash
-python dark_ddos.py --target 192.168.1.100 --port 80 --threads 50 --duration 60
+python dark_ddos.py
 ```
 
-### **📌 Parâmetros | Parameters:**
-| Parâmetro | Descrição | Description |
-|-----------|-----------|------------|
-| `--target` | IP alvo | Target IP |
-| `--port` | Porta alvo | Target port |
-| `--threads` | Número de threads | Number of threads |
-| `--duration` | Duração (segundos) | Duration (seconds) |
-| `--help` | Ajuda | Help |
+2. Type `1` to start the attack
+3. Type `EU ACEITO` to confirm legal terms
+4. Configure parameters:
+   - **Target IP** (e.g., 192.168.1.100)
+   - **Port** (default: 80)
+   - **Number of threads** (1-100, default: 50)
+   - **Duration in seconds** (default: 60)
+5. Confirm with `y` to start
 
 ---
 
@@ -191,24 +223,28 @@ python dark_ddos.py --target 192.168.1.100 --port 80 --threads 50 --duration 60
 
 <table>
 <tr>
-<td align="center">✅</td>
-<td><b>Múltiplas conexões simultâneas | Multiple simultaneous connections</b></td>
+<td align="center">⚡</td>
+<td><b>Ataque TCP real | Real TCP attack</b></td>
 </tr>
 <tr>
-<td align="center">✅</td>
-<td><b>Controle de taxa de pacotes | Packet rate control</b></td>
+<td align="center">🧵</td>
+<td><b>Múltiplas threads simultâneas | Multiple simultaneous threads</b></td>
 </tr>
 <tr>
-<td align="center">✅</td>
-<td><b>Modo educacional com métricas | Educational mode with metrics</b></td>
+<td align="center">📊</td>
+<td><b>Monitoramento em tempo real | Real-time monitoring</b></td>
 </tr>
 <tr>
-<td align="center">✅</td>
-<td><b>Relatórios de impacto | Impact reports</b></td>
+<td align="center">📈</td>
+<td><b>Barra de progresso animada | Animated progress bar</b></td>
 </tr>
 <tr>
-<td align="center">✅</td>
-<td><b>Limitação automática | Automatic limiting</b></td>
+<td align="center">📋</td>
+<td><b>Relatório detalhado ao final | Detailed final report</b></td>
+</tr>
+<tr>
+<td align="center">🛡️</td>
+<td><b>Sistema de confirmação legal | Legal confirmation system</b></td>
 </tr>
 </table>
 
@@ -221,20 +257,17 @@ python dark_ddos.py --target 192.168.1.100 --port 80 --threads 50 --duration 60
 ## 📊 **EXEMPLO DE SAÍDA | OUTPUT EXAMPLE**
 
 ```
-⚫ DARK DDOS - Modo Educacional | Educational Mode ⚫
+🔥 ATAQUE INICIADO - Pressione Ctrl+C para parar 🔥
 ═══════════════════════════════════════════════════════
-🎯 Alvo | Target: 192.168.1.100:80
-⚡ Threads: 50
-⏱️  Duração | Duration: 60s
+📊 Progresso: [██████████████████████████░░] 85.3% | 📨 Pacotes: 45231 | ⚡ Taxa: 884.5/s | ⏱️  Restam: 8.7s
+
 ═══════════════════════════════════════════════════════
-📈 Progresso | Progress: [████████░░] 80%
-📊 Pacotes enviados | Packets sent: 45,892
-⏳ Tempo restante | Time left: 12s
+📋 RELATÓRIO FINAL
 ═══════════════════════════════════════════════════════
-📋 Relatório Final | Final Report:
-• Total de pacotes: 57,234
-• Média por segundo: 954
-• Pico de conexões: 48
+🎯 Alvo: 192.168.1.100:80
+⏱️  Duração real: 60s
+📨 Total de pacotes: 52384
+⚡ Média de pacotes/seg: 873.07
 ═══════════════════════════════════════════════════════
 ```
 
@@ -244,7 +277,22 @@ python dark_ddos.py --target 192.168.1.100 --port 80 --threads 50 --duration 60
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## 📚 **CASOS DE USO EDUCACIONAIS | EDUCATIONAL USE CASES**
+## ⚙️ **PARÂMETROS CONFIGURÁVEIS | CONFIGURABLE PARAMETERS**
+
+| Parâmetro | Faixa | Padrão | Descrição |
+|-----------|-------|--------|-----------|
+| IP Alvo | Qualquer IPv4 | Obrigatório | Endereço do servidor alvo |
+| Porta | 1-65535 | 80 | Porta para ataque |
+| Threads | 1-100 | 50 | Conexões simultâneas |
+| Duração | 1-3600 | 60 | Tempo de ataque (segundos) |
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## 🎯 **CASOS DE USO EDUCACIONAIS | EDUCATIONAL USE CASES**
 
 <table>
 <tr>
@@ -255,27 +303,59 @@ python dark_ddos.py --target 192.168.1.100 --port 80 --threads 50 --duration 60
 <tr>
 <td>
 
-• Demonstração de conceitos de rede
-• Entendimento de DoS/DDoS
-• Estratégias de mitigação
+• Demonstração prática de DDoS
+• Análise de tráfego em tempo real
+• Estudo de logs do servidor
 
 </td>
 <td>
 
-• Testes de estresse controlados
-• Análise de comportamento de servidores
-• Estudo de logs e monitoramento
+• Testes de estresse em servidores locais
+• Configuração de firewalls e mitigação
+• Análise de pico de conexões
 
 </td>
 <td>
 
-• Artigos acadêmicos
-• Trabalhos de conclusão de curso
-• Projetos de segurança
+• Artigos sobre segurança de rede
+• TCC sobre ataques DDoS
+• Estudos de mitigação
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## 🛠️ **ESTRUTURA DO CÓDIGO | CODE STRUCTURE**
+
+```
+dark_ddos.py
+├── 🎨 logo() - Banner animado
+├── ⚔️ ataque_thread() - Função de ataque por thread
+├── 📊 ataque_ddos() - Função principal
+├── 🎯 main() - Menu principal
+└── 🔒 Sistema de confirmação legal
+```
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## 📜 **HISTÓRICO DE VERSÕES | VERSION HISTORY**
+
+### v1.0 (Atual | Current)
+- ✅ Script único e autossuficiente
+- ✅ Ataque TCP real
+- ✅ Monitoramento em tempo real
+- ✅ Relatórios detalhados
+- ✅ Sistema de confirmação legal
 
 ---
 
@@ -288,9 +368,9 @@ python dark_ddos.py --target 192.168.1.100 --port 80 --threads 50 --duration 60
 Contribuições são bem-vindas! Siga os passos:
 
 1. 🍴 Fork o projeto
-2. 🌿 Crie uma branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push para a branch (`git push origin feature/AmazingFeature`)
+2. 🌿 Crie uma branch (`git checkout -b feature/NovaFuncionalidade`)
+3. 💾 Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
+4. 📤 Push para a branch (`git push origin feature/NovaFuncionalidade`)
 5. 🔃 Abra um Pull Request
 
 ---
@@ -305,10 +385,11 @@ Contribuições são bem-vindas! Siga os passos:
 
 **MIT License**
 
-Copyright (c) 2024 Crypt00r
+Copyright (c) 2026 Crypt00r
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
 
 [Leia mais | Read more](LICENSE)
 
@@ -322,12 +403,20 @@ of this software and associated documentation files...
   <br>
   <br>
   
+  <pre>
+Note! : I'm Not Responsible for any illegal usage.
+Coded by : Crypt0r
+Instagram: theyoungycc
+  </pre>
+  
+  <br>
+  
   <img src="https://img.shields.io/badge/Desenvolvido%20com%20💀%20por-Crypt00r-00FF00?style=for-the-badge&labelColor=black">
   
   <br>
   
   <sub>
-    🇧🇷 Para fins educacionais apenas | 🇺🇸 For educational purposes only
+    🇧🇷 Ataques reais para aprendizado ético | 🇺🇸 Real attacks for ethical learning
   </sub>
   
   <br>
@@ -335,6 +424,10 @@ of this software and associated documentation files...
   
   <a href="https://github.com/Crypt00r">
     <img src="https://img.shields.io/badge/GitHub-Crypt00r-00FF00?style=social&logo=github">
+  </a>
+  
+  <a href="https://instagram.com/theyoungycc">
+    <img src="https://img.shields.io/badge/Instagram-@theyoungycc-00FF00?style=social&logo=instagram">
   </a>
 </div>
 
